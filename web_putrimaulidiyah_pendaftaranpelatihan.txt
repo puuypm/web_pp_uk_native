@@ -1,0 +1,10 @@
+Login Pendaftaran Pelatihan:
+1. Email : admin@gmail.com
+   Password : 12345
+   Level : Administrator
+2. Email :pelatihan@gmail.com
+   Password : 12345
+   Level : Admin Pelatihan
+3. Email : siswa@gmail.com
+   Password : 12345
+   Level : Peserta
